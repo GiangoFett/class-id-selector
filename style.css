@@ -1,8 +1,8 @@
 /* Stylesheet */
 
-p {
+.odd {
   background-color: #ffc0cb;
-    font-family: Verdana, sans-serif;  
+    font-family: Verdana, "DejaVu sans",sans-serif;  
 }
 
 #num2 {
