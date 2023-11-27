@@ -1,7 +1,11 @@
 /* Stylesheet */
 
-.class {
+.class1, .class2, .class3 {
     background-color: #ffc0cb;
     font-family: Verdana, sans-serif;
-    
+}
+
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
 }
