@@ -1,8 +1,8 @@
 /* Stylesheet */
 
-.num1, .num3, .num5 {
-    background-color: #ffc0cb;
-    font-family: Verdana, sans-serif;
+p {
+  background-color: #ffc0cb;
+    font-family: Verdana, sans-serif;  
 }
 
 #num2 {
@@ -10,7 +10,7 @@
     font-size: 36px;
 }
 
-.num3 {
+.num3font {
     font-size: 24px;
 }
 
